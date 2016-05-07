@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{56BF396C-9631-407C-B8F1-6A7FD97F3C78}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KreeClient</RootNamespace>
+    <AssemblyName>Kree Client</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Earth.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="KCF_AuthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_AuthForm.Designer.cs">
+      <DependentUpon>KCF_AuthForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KCF_ConnectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_ConnectForm.Designer.cs">
+      <DependentUpon>KCF_ConnectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KCF_LoaderForm_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_LoaderForm_2.Designer.cs">
+      <DependentUpon>KCF_LoaderForm_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KCF_MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_MainForm.Designer.cs">
+      <DependentUpon>KCF_MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KCF_PropertyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_PropertyForm.Designer.cs">
+      <DependentUpon>KCF_PropertyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KCF_ReplaceForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_ReplaceForm.Designer.cs">
+      <DependentUpon>KCF_ReplaceForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KC_Client.cs" />
+    <Compile Include="KC_MainFormOperation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_MessageForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KCF_MessageForm.Designer.cs">
+      <DependentUpon>KCF_MessageForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KC_MainFormViewOperations.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="KC_QueueReqReactionSystem.cs" />
+    <EmbeddedResource Include="KCF_AuthForm.resx">
+      <DependentUpon>KCF_AuthForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KCF_ConnectForm.resx">
+      <DependentUpon>KCF_ConnectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KCF_LoaderForm_2.resx">
+      <DependentUpon>KCF_LoaderForm_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KCF_MainForm.resx">
+      <DependentUpon>KCF_MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KCF_MessageForm.resx">
+      <DependentUpon>KCF_MessageForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KCF_PropertyForm.resx">
+      <DependentUpon>KCF_PropertyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KCF_ReplaceForm.resx">
+      <DependentUpon>KCF_ReplaceForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\KreeLib\KreeLib.csproj">
+      <Project>{c5d64fc1-4858-4563-9ffe-997f457e4b22}</Project>
+      <Name>KreeLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Earth.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

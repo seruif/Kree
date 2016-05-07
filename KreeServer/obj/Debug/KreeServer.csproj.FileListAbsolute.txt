@@ -1,0 +1,35 @@
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\KreeServer.csprojResolveAssemblyReference.cache
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\Kryser.KSFFileKeyForm.resources
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\Kryser.KSFLogForm.resources
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\Kryser.KSFMainForm.resources
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\Kryser.MsgForm.resources
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\XSUserControl.XSProgressBar.resources
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\KreeServer.Properties.Resources.resources
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\KreeServer.csproj.GenerateResource.Cache
+F:\Projects\VS2013\Kryser\Kryser\bin\Debug\Kree Server.exe.config
+F:\Projects\VS2013\Kryser\Kryser\bin\Debug\Kree Server.exe
+F:\Projects\VS2013\Kryser\Kryser\bin\Debug\Kree Server.pdb
+F:\Projects\VS2013\Kryser\Kryser\bin\Debug\KreeLib.dll
+F:\Projects\VS2013\Kryser\Kryser\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\Projects\VS2013\Kryser\Kryser\bin\Debug\KreeLib.pdb
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\Kree Server.exe
+F:\Projects\VS2013\Kryser\Kryser\obj\Debug\Kree Server.pdb
+F:\Projects\VS2013\Kree\KreeServer\bin\Debug\Kree Server.exe.config
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\Kree Server.exe
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\Kree Server.pdb
+F:\Projects\VS2013\Kree\KreeServer\bin\Debug\Kree Server.exe
+F:\Projects\VS2013\Kree\KreeServer\bin\Debug\Kree Server.pdb
+F:\Projects\VS2013\Kree\KreeServer\bin\Debug\KreeLib.dll
+F:\Projects\VS2013\Kree\KreeServer\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+F:\Projects\VS2013\Kree\KreeServer\bin\Debug\KreeLib.pdb
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\KreeServer.csprojResolveAssemblyReference.cache
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\KreeServer.KSFFileKeyForm.resources
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\KreeServer.KSFLogForm.resources
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\KreeServer.KSFMainForm.resources
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\KreeServer.MsgForm.resources
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\XSUserControl.XSProgressBar.resources
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\KreeServer.Properties.Resources.resources
+F:\Projects\VS2013\Kree\KreeServer\obj\Debug\KreeServer.csproj.GenerateResource.Cache
+D:\MDB\Projects\VS2013\Kree\KreeServer\bin\Debug\Kree Server.exe.config
+D:\MDB\Projects\VS2013\Kree\KreeServer\obj\Debug\Kree Server.exe
+D:\MDB\Projects\VS2013\Kree\KreeServer\obj\Debug\Kree Server.pdb

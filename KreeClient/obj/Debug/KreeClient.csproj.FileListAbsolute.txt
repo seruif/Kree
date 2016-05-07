@@ -1,0 +1,34 @@
+F:\Projects\VS2013\Kree\KreeClient\bin\Debug\Kree Client.exe.config
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\Kree Client.exe
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\Kree Client.pdb
+F:\Projects\VS2013\Kree\KreeClient\bin\Debug\Kree Client.exe
+F:\Projects\VS2013\Kree\KreeClient\bin\Debug\Kree Client.pdb
+F:\Projects\VS2013\Kree\KreeClient\bin\Debug\KreeLib.dll
+F:\Projects\VS2013\Kree\KreeClient\bin\Debug\KreeLib.pdb
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.csprojResolveAssemblyReference.cache
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_AuthForm.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_ConnectForm.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_LoaderForm_2.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_MainForm.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_MessageForm.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_PropertyForm.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_ReplaceForm.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.Properties.Resources.resources
+F:\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.csproj.GenerateResource.Cache
+D:\MDB\Projects\VS2013\Kree\KreeClient\bin\Debug\Kree Client.exe.config
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\Kree Client.exe
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\Kree Client.pdb
+D:\MDB\Projects\VS2013\Kree\KreeClient\bin\Debug\Kree Client.exe
+D:\MDB\Projects\VS2013\Kree\KreeClient\bin\Debug\Kree Client.pdb
+D:\MDB\Projects\VS2013\Kree\KreeClient\bin\Debug\KreeLib.dll
+D:\MDB\Projects\VS2013\Kree\KreeClient\bin\Debug\KreeLib.pdb
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.csprojResolveAssemblyReference.cache
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_AuthForm.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_ConnectForm.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_LoaderForm_2.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_MainForm.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_MessageForm.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_PropertyForm.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.KCF_ReplaceForm.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.Properties.Resources.resources
+D:\MDB\Projects\VS2013\Kree\KreeClient\obj\Debug\KreeClient.csproj.GenerateResource.Cache

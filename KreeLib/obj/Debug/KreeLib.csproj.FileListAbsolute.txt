@@ -1,0 +1,14 @@
+F:\Projects\VS2013\Kryser\KryserLib\bin\Debug\KreeLib.dll
+F:\Projects\VS2013\Kryser\KryserLib\bin\Debug\KreeLib.pdb
+F:\Projects\VS2013\Kryser\KryserLib\obj\Debug\KreeLib.dll
+F:\Projects\VS2013\Kryser\KryserLib\obj\Debug\KreeLib.pdb
+F:\Projects\VS2013\Kree\KreeLib\bin\Debug\KreeLib.dll
+F:\Projects\VS2013\Kree\KreeLib\bin\Debug\KreeLib.pdb
+F:\Projects\VS2013\Kree\KreeLib\obj\Debug\KreeLib.dll
+F:\Projects\VS2013\Kree\KreeLib\obj\Debug\KreeLib.pdb
+F:\Projects\VS2013\Kree\KreeLib\obj\Debug\KreeLib.csprojResolveAssemblyReference.cache
+D:\MDB\Projects\VS2013\Kree\KreeLib\bin\Debug\KreeLib.dll
+D:\MDB\Projects\VS2013\Kree\KreeLib\bin\Debug\KreeLib.pdb
+D:\MDB\Projects\VS2013\Kree\KreeLib\obj\Debug\KreeLib.csprojResolveAssemblyReference.cache
+D:\MDB\Projects\VS2013\Kree\KreeLib\obj\Debug\KreeLib.dll
+D:\MDB\Projects\VS2013\Kree\KreeLib\obj\Debug\KreeLib.pdb
